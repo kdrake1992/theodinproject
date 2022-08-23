@@ -35,3 +35,6 @@ The Odin Project's core members have the right and responsibility to remove, edi
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at <a href="mailto:theodinprojectcontact@gmail.com.com">theodinprojectcontact@gmail.com</a>. After investigating and reviewing each complaint, the project team will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+
+
+Adding random text here
